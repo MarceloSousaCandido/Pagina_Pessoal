@@ -1,0 +1,46 @@
+li { 
+    display: inline; 
+}
+
+#header {
+	height: 120px;
+	margin: 0 auto;
+}
+
+#content {
+	height: 500px;
+	margin: 0 auto;
+}
+
+#foot {
+	height: 150px;
+	margin: 0 auto;
+    text-align: center;
+}
+
+#foto{
+    width: 100px;
+    height: 120px;
+    float:left;    
+}
+
+#navbar{
+    width: 600px;
+    height: 40px;
+    float: left;
+}
+
+#nome{
+    width: 600px;
+    height: 80px;
+    float: left;
+    padding: 20px;
+    
+}
+
+.borda{
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+}
+
