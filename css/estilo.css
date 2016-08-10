@@ -10,6 +10,7 @@ li {
 #content {
 	height: 500px;
 	margin: 0 auto;
+    text-align: center;
 }
 
 #foot {
@@ -21,8 +22,15 @@ li {
 #foto{
     width: 100px;
     height: 120px;
-    float:left;    
+    float: left;    
 }
+
+#foto_perfil{
+    width: 100px;
+    height: 120px;
+    float: center;    
+}
+
 
 #navbar{
     width: 600px;
